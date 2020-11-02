@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 
-public class Room 
+public class Room //THIS IS A ROOM
 {
     private String description;
     private HashMap<String, Room> exits;
