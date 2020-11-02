@@ -1,5 +1,5 @@
 package worldofzuul;
-
+//HEY
 public enum CommandWord
 {
     GO("go"), QUIT("quit"), HELP("help"), UNKNOWN("?");
